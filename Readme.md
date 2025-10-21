@@ -354,14 +354,6 @@ We welcome contributions! Please follow these steps:
   - Career trend analysis
   - Success metrics tracking
 
-## 📞 Support
-
-For support and questions:
-
-- **Email**: support@aicareercoach.com
-- **Documentation**: [Project Wiki](https://github.com/yourusername/ai-career-coach-agent/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-career-coach-agent/issues)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
